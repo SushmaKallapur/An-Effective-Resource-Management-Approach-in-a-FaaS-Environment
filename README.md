@@ -41,19 +41,19 @@ After running above steps, we can see results as below with some graphs.
 
 1. NSGAII :
    1. Pareto front evaluations:
-      ![alt text](Pareto_Front_Nsga2.png)
+      ![alt text](https://github.com/SushmaKallapur/An-Effective-Resource-Management-Approach-in-a-FaaS-Environment/blob/main/Readme_Files/Pareto_Front_Nsga2.png)
    2. 3d visualization of evaluation objects:
-      ![alt_text](3d_evaluation_objects_nsga2.png)
+      ![alt_text](https://github.com/SushmaKallapur/An-Effective-Resource-Management-Approach-in-a-FaaS-Environment/blob/main/Readme_Files/3d_evaluation_objects_nsga2.png)
    3. HyperVolume Comparison:
-      ![alt_text](NSGAII_HV_values.png)
+      ![alt_text](https://github.com/SushmaKallapur/An-Effective-Resource-Management-Approach-in-a-FaaS-Environment/blob/main/Readme_Files/NSGAII_HV_values.png)
       
 2. NSGA III:
    1. Pareto front Evaluations:
-      ![alt_text](pareto_front_nsga3.png)
+      ![alt_text](https://github.com/SushmaKallapur/An-Effective-Resource-Management-Approach-in-a-FaaS-Environment/blob/main/Readme_Files/pareto_front_nsga3.png)
    2. 3d visualization of evaluation objects:
-      ![alt_text](3d_evaluation_objects_nsga3.png)
+      ![alt_text](https://github.com/SushmaKallapur/An-Effective-Resource-Management-Approach-in-a-FaaS-Environment/blob/main/Readme_Files/3d_evaluation_objects_nsga3.png)
    3. HyperVolume Comparison: 
-      ![alt_text](NSGAIII_HV_Values.png)
+      ![alt_text](https://github.com/SushmaKallapur/An-Effective-Resource-Management-Approach-in-a-FaaS-Environment/blob/main/Readme_Files/NSGAIII_HV_Values.png)
 
 -----
 Note :
