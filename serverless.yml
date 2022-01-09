@@ -1,0 +1,21 @@
+service: MOGA-algo
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: non-linux
+provider:
+  name: aws
+  runtime: python3.8
+  lambdaHashingVersion: 20201221
+
+package:
+  exclude:
+    - node_modules/**
+    - venv/**
+
+functions:
+  MOGA-algo:
+    handler: handler.main
+    timeout: 60
